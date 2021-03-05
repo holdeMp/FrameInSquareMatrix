@@ -79,8 +79,9 @@ public class Lab2MariiKI34
 	 /**
 	 * The static PrintArr method outputs the array to a file and to the console
 	 *
-	 * @param fout,arr,nRows
-	 *
+	 * @param fout
+	 * @param arr
+	 * @param nRows
 	 */
 	 public static void PrintArr(PrintWriter fout,char[][] arr,int nRows) {
 		 for(int i=0;i<nRows;i++) {
