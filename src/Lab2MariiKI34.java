@@ -82,10 +82,6 @@ public class Lab2MariiKI34
 	 * @param fout
 	 * @param arr
 	 * @param nRows
-<<<<<<< HEAD
-=======
-	 *
->>>>>>> 20368c1c5e127dd4a5514ad7d50c37b894721341
 	 */
 	 public static void PrintArr(PrintWriter fout,char[][] arr,int nRows) {
 		 for(int i=0;i<nRows;i++) {
